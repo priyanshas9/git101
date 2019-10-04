@@ -1,1 +1,6 @@
-hye good morning
+hey good morning
+# include<iostream.h>
+void main()
+{
+cout<<"welcome world";
+}
